@@ -12,3 +12,14 @@ Herer the image is laoding
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [X] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [X] Here i am doing
+- [X] here i am not doing anything
